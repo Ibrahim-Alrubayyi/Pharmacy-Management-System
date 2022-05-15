@@ -1,3 +1,3 @@
-###For fun :) .. 
+For fun :) .. 
 
-#PHP-Project & MySQL
+PHP-Project & MySQL
